@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024"><circle cx="512.0" cy="512.0" r="471.04" fill="#F4F7FC"/>
+  <g transform="translate(225.28 222.41) scale(4.77867)">
+    <path d="M60 4 L116 45 L60 86 L4 45 Z" fill="#0B3A8F" stroke="#0B3A8F" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M60 12.5 L104.5 45 L60 77.5 L15.5 45 Z" fill="none" stroke="#fff" stroke-width="2.6" stroke-linejoin="round"/>
+    <text x="60" y="54.8" fill="#fff" font-size="25" font-weight="700" text-anchor="middle" letter-spacing="1"
+      font-family="Helvetica Neue, Helvetica, Arial, sans-serif">LIFE</text>
+  </g>
+  <text x="512.00" y="787.25" fill="#0B3A8F" font-size="154.83"
+    font-weight="700" text-anchor="middle" letter-spacing="6.88"
+    font-family="Helvetica Neue, Helvetica, Arial, sans-serif">SADX</text>
+</svg>
